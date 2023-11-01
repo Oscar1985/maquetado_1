@@ -1,0 +1,27 @@
+/* *{
+    border: 0px;
+} */
+
+body{
+    background-color: black;
+}
+p,h1{
+    color: grey;
+    font-size: 50px;
+    text-decoration: underline;
+}
+span{
+    color: yellow;
+    font-size: 35px;    
+    background-color: brown;
+}
+.noSubrayado{
+    text-decoration: none;
+}
+.textoRojo{
+    color: red;
+}
+
+#spanSection{
+    text-decoration: line-through;
+}
