@@ -1,0 +1,17 @@
+
+.card{
+    width: 200px;
+    margin: 0 auto;
+}
+
+.ctitle{
+    background-color: gray;
+    text-align:center;
+    
+}
+.cBody{
+    text-align: justify;
+}  
+.cFotter{
+    background-color: gainsboro;
+}
